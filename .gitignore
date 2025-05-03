@@ -1,0 +1,2 @@
+# Ignora il file .env per non esporre le credenziali
+.env
